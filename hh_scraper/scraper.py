@@ -9,7 +9,7 @@ import numpy as np
 import csv
 
 headers = {"User-Agent": "Mozilla/5.0 (Windows; U; MSIE 9.0; Windows NT 6.0; Win64; x64; Trident/5.0; .NET CLR 3.8.50799; Media Center PC 6.0; .NET4.0E)"}
-request_link = 'https://hh.ru/search/vacancy?L_save_area=true&clusters=true&enable_snippets=true&text=it+recruiter'
+request_link = 'https://hh.ru/search/vacancy?L_save_area=true&clusters=true&enable_snippets=true&text=python'
 try:
   response = requests.get(request_link, headers = headers).text
 except:
