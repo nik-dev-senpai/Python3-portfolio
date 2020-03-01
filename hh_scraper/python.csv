@@ -1,0 +1,1390 @@
+skill,frequency
+.NET Framework,17
+.Net Core,1
+.net,1
+1C: Бухгалтерия,2
+1С программирование,2
+1С-Битрикс,3
+1С: Документооборот,1
+1С: Предприятие,1
+1С: Предприятие 8,1
+1С: Управление Торговлей,1
+3D,1
+3D Max,1
+3D geometry,1
+3D Моделирование,1
+3D анимация,1
+3G,1
+3Par,1
+4G,1
+A/B тесты,6
+ABC-анализ,1
+ADAS,1
+ANSI SQL,1
+API,26
+API Gateway,1
+ARIS,1
+ARM,3
+ARPPU,2
+ARPU,2
+ASIC,1
+ASIO,1
+ASP.NET,13
+AWS,21
+AWS ETL,1
+AWS Glue,1
+Active Directory,5
+ActiveMQ,1
+AdHoc,1
+Administrative Support,1
+Adobe Illustrator,4
+Adobe InDesign,1
+Adobe Photoshop,12
+Agile Project Management,21
+Aiohttp,1
+Airflow,2
+Ajax,22
+Akka,1
+Algorithms,1
+AllFusion ERwin Data Modeler,1
+Allure,3
+AlterX,1
+Amazon,2
+Amazon EC2,3
+Amazon Web Services,1
+Analysis,2
+Analytical skills,2
+Android,18
+Android SDK,2
+Angular,9
+AngularJS,23
+Animation,1
+Anime studio,1
+Ansi C++,1
+Ansible,30
+Apache,3
+Apache Airflow,3
+Apache Beam,3
+Apache HTTP Server,12
+Apache Maven,1
+Apache NiFi,3
+Apache Spark,3
+Apache Tomcat,5
+Apache2,1
+Apple Swift,1
+Apple deweloper,1
+Application Security,1
+ArcGIS,4
+ArchiCAD,1
+Arduino,2
+Artificial intelligence,1
+Artificial neural network,1
+Assembler,3
+Asterisk,3
+Astra Linux,1
+Asyncio,7
+Atlassian,2
+Atlassian Confluence,18
+Atlassian Jira,61
+Auto Layout,1
+AutoCAD,2
+Autodesk Maya,3
+Autodesk Revit,1
+Azure,3
+BDD Cucumber,1
+BGP,1
+BI,3
+BPMN,4
+BSS,1
+Babel,1
+Bach,1
+Back-End,1
+Back-end,2
+Backend,2
+Backend QA,1
+Bash,104
+Behat,2
+Behave,1
+Big Data,45
+Binary Utilization,1
+Bitbucket,1
+Black box testing,2
+Boost,4
+Bootstrap,27
+Borland Delphi,2
+Bug Tracking Systems,2
+Bugzilla,1
+Bulma,1
+Business Analysis,2
+Business English,5
+Business Intelligence Systems,1
+Business Planning,1
+Business intelligence,4
+C,12
+C#,43
+C++,163
+C++03,2
+C++11,2
+C++14,2
+C/C++,55
+CCDA,1
+CCNA,1
+CCNP,1
+CFA,1
+CI,1
+CI/CD,16
+CI/CD methodologies,1
+CI\CD,3
+CMS Wordpress,6
+CMake,1
+CNN,1
+COCOS,1
+CQF,1
+CRM,9
+CRM Мегаплан,1
+CSS,130
+CSS3,32
+CUDA,2
+Caffe,3
+Cassandra,4
+CatBoost,1
+Celery,17
+CentOS,11
+Channels,2
+Chromium Embedded Framework,5
+Cinema 4D,1
+CircleCI,1
+Cisco,8
+ClickHouse,2
+Clickhouse,4
+Cloud,1
+CloudFormation,1
+Cocoa Touch,1
+Cocoapods,1
+Cognito,1
+Communication skills,1
+Compatibility Testing,1
+Compilation,1
+Comptia Network+,1
+Computer Vision,6
+Computer vision,1
+Confluence,1
+Consul,2
+Continuous Integration,1
+Cordova,1
+CorelDRAW,2
+Corporate Events Organization,1
+Cost Analysis,1
+Couchbase,1
+Counsul,1
+Cucumber,3
+Customer Support,1
+Cyber Security,1
+Cистемы управления базами данных,16
+DAX,2
+DBA,1
+DDoS Attack,1
+DHCP,5
+DIAMETER,1
+DNS,2
+DOCKER,3
+DRF,3
+DRY,1
+DS,3
+DSP,1
+DWH,1
+Dask,1
+Data Analysis,35
+Data Architect,1
+Data Engineer,3
+Data Mining,67
+Data Mining: Business Analytica,2
+Data Science,16
+Data science,2
+Databases,1
+Debian,17
+Deep Learning,11
+Deep Learning algorithms,1
+Deep learning,4
+Design Patterns,4
+DevOPS,1
+DevOps,11
+Device Drivers,1
+Devops,3
+DigitalOcean,1
+Directum,1
+Disaster Recovery,1
+Distributed systems,1
+Django,7
+Django DRF,1
+Django Framework,310
+Django ORM,1
+Docker,104
+Docker Swarm,1
+Docker-compose,1
+Docker-контейнеры,1
+Docker-хосты,1
+DockerCompose,2
+Dovecot,1
+DoxyGen,1
+Driving Licence B,1
+Drools,1
+Dry-System,1
+E-Commerce,2
+ECS,1
+ELK,6
+ERP,1
+ES2015,1
+ES6,3
+ETL,5
+EViews,1
+Eclipse,2
+ElasticSearch,8
+Elasticsearch,7
+Elixir,2
+Embedded,1
+English,1
+Entity Framework,1
+Exspress.js,1
+Ext JS,1
+ExtJS,1
+FIrewall,1
+FPGA,2
+FRM,1
+Failover,1
+Falcon,3
+Fasttrack,1
+Fault Tolerance,1
+Fedora,1
+Fiddler,1
+Figma,1
+Firebase,1
+Flash Actionscript,1
+Flask,65
+Flask Framework,1
+Flexbox,1
+FreeSWITCH,1
+Frontend,1
+Fullstack,2
+GCC,1
+GCP,1
+GDAL,2
+GIS,1
+GNSS,1
+GOlang,1
+GPGPU,1
+GPU,1
+GSM,1
+Game Dev,3
+Game Development,1
+Gamer,1
+Gaming,2
+Gatling,2
+Gensim,1
+Gerrit,1
+Git,408
+GitLab,4
+Github,2
+Gitlab,6
+Gitlab CI/CD,1
+Gitlab-CI,1
+Glide,1
+Glue,1
+Gnu C++,4
+Go,11
+Go/Golang,1
+Godep,1
+Golang,23
+Google API,2
+Google AdWords,4
+Google Analytics,10
+Google Cloud,4
+Google Cloud Platform,2
+Google Compute Engine,3
+Google Data Studio,1
+Google Sheets,2
+Gradle,1
+Grafana,6
+GraphQL,2
+Graphic Design,1
+Graphql,1
+Greenplum,2
+Groovy,4
+Gunicorn,1
+HBase,1
+HDFS,1
+HP LoadRunner,1
+HTML,107
+HTML5,91
+HTTP,29
+HTTP/HTTPS,1
+Hadoop,15
+Hanami,1
+Hardware,3
+Hbase,1
+Helm,2
+Helpdesk,3
+Hibernate ORM,2
+High Availability,1
+HighLoad,1
+Highcharts,1
+Hive,3
+Hr Policies,1
+Hyper-V,2
+Hypervisor,1
+IA,1
+IBM AIX,1
+IBM SPSS,1
+IDA,1
+IDEF,1
+IDS/IPS,2
+IIS,1
+IMU,1
+IP Multicast,1
+IPSEC,1
+IPTables,1
+IPv4,1
+IPv6,1
+IRT,1
+IS-IS,1
+ISO/OSI,1
+IT,3
+IT Recruitment,1
+IT-технологии,1
+ITSM,1
+Images Processing,1
+InfluxDB,4
+Intellij IDEA,1
+Internet,1
+Investment Analysis,2
+Investment Banking,2
+IoT,1
+Iron Python,1
+Issues analysis,1
+JAVA / Python,1
+JDA,1
+JMeter,3
+JS,1
+JSON,7
+JSON API,9
+JUnit,1
+Java,120
+Java 8,1
+Java EE,1
+Java SE,1
+JavaScript,277
+JavaScript (AngularJS),1
+"JavaScript,",1
+Jen,1
+Jenkins,37
+Jetbrains Phpstorm,1
+Jira,6
+Jmeter,2
+Joomla CMS,1
+Julia,1
+Juniper,2
+Jupiter,1
+Jupyter,2
+Jupyter Notebook,1
+KAFKA,1
+KVM,5
+Kafka,14
+Kaggle,1
+Keras,10
+Kerberos,1
+Kernel,4
+Kibana,2
+Kotlin,3
+Kubernetes,30
+L3 Technical Support,1
+LAMP,1
+LINQ,2
+LSTM,1
+LTE,1
+LXC,2
+Lambda,1
+Laravel,4
+Laravel5,1
+Latex,1
+Lead engineer,1
+Leadership Skills,2
+Less,3
+Linux,427
+Linux Kernel,1
+Linux SQL,1
+Linux system administration,1
+Linux/Docker,1
+Lost functions,1
+Lotus,1
+Lotus Notes,1
+Lua,4
+Luigi,1
+MATLAB,39
+ML,19
+MPLS,1
+MQ,1
+MQTT,1
+MS Access,15
+MS CRM,1
+MS Excel,8
+MS Exchange,1
+MS Internet Explorer,1
+MS Office,3
+MS PowerPoint,17
+MS Project,3
+MS Project Expert,1
+MS Publisher,1
+MS SQL,69
+MS SQL Server,17
+MS SharePoint,1
+MS Visio,4
+MS Visual Studio,11
+MSSQL,2
+MVC,15
+MVVM,1
+Mac Os,6
+Machine Learning,30
+Machine learning,9
+Magento,3
+Makefiles,1
+Malware Research,1
+Mantis,1
+MapReduce,2
+Marchine Learning,1
+Maria,1
+Market Research,1
+Market modeling,1
+Marketing Analysis,3
+Math,2
+Mathcad,6
+Mathematical Analysis,1
+Mathematical Statistics,4
+Matplotlib,1
+Memcached,1
+Mercurial,3
+Microservices,1
+Microsoft Access,1
+Microsoft Visual Studio,4
+MikroTik,2
+Mindsphere,1
+MobX,1
+Mobile testing,1
+Mobile testing experience,1
+MongoD,1
+MongoDB,84
+MsBuild,1
+Multithread Programming,3
+MySQL,182
+NET Core,1
+NLP,7
+NLU,1
+NSIS,1
+NVidia Jetson,1
+Nagios,3
+Nats (MQ),1
+Natural Language Processing,1
+Net Core,2
+NetBox,1
+Netapp,1
+Network administration,1
+Networking,8
+Networks,1
+Neural Network,1
+Neural networks,2
+Nginx,71
+NoSQL,26
+Node.js,100
+NodeJS,1
+Notebook,1
+NumPy,4
+Numerical Optimization,1
+Numpy,9
+Nuxt.js,1
+NuxtJS,1
+ORACLE,19
+ORM,7
+OSI/TCP,1
+OSPF,1
+OSS,2
+OTA,1
+OWASP,2
+Objective-C,2
+Octave,2
+Octopus,1
+Olap (online analytical processing),2
+OpenAPI,1
+OpenCL,2
+OpenCV,11
+OpenCart,1
+OpenGL,3
+OpenShift,2
+OpenStack,6
+Openstack,1
+Opera,1
+Operations Management,1
+Oracle 11G,1
+Oracle BI,1
+Oracle Database,1
+Oracle Hyperion,1
+Oracle Pl/SQL,13
+PEP8,1
+PHP,97
+PHP5,11
+PHP7,1
+PHPUnit,2
+PL/SQL,1
+PMBOK,1
+PRM,1
+Pacemaker,1
+Pandas,14
+Pascal,1
+Pentest,1
+Perl,26
+Phyton,4
+Play framework,1
+PostGRE,1
+Postfix,1
+Postgre SQL,1
+PostgreSQL,335
+Postgree,1
+Postman,6
+PostreSQL,1
+Power BI,7
+Power Pivot,1
+Power Query,1
+PowerShell,5
+Process Mining,1
+Product Development,1
+Product Management,2
+Product Promotion,1
+Programming,1
+Project management,6
+Prometheus,2
+Proxmox,3
+Puppet,4
+Py.test,2
+PyCharm,1
+PyQt,1
+PyTest,1
+PyTorc,1
+PyTorch,14
+Pyramid,1
+Pyspark,1
+Pytest,3
+Python,1228
+Python (Pyramid),1
+Python 2.7,1
+Python 3.5+,1
+Python 3.6+,1
+Python и его популярные веб-фреймворки,1
+Python3,2
+Pytorch,2
+QA,34
+QA Automation,1
+Qt,15
+Qt/QML,1
+QtCreator,2
+Quality Control,1
+R,22
+R Programming,1
+R language,1
+R languange,1
+R programming languagу,2
+RADIUS,1
+RAID Controllers,1
+RDB,1
+REST,28
+REST API,7
+REST/SOAP,1
+RESTful,1
+RESTful API,1
+RIA,3
+RNN,1
+ROI,2
+ROS,1
+RPM,2
+RSpec,6
+RTOS,2
+Rabbit,2
+RabbitMQ,35
+Radius,1
+Raspberry,1
+Raspberry Pi,1
+React,26
+React Python,1
+React.js,35
+ReactJS,7
+Recruitment,1
+Redis,66
+Redmine,6
+Redux,41
+Regression Analysis,1
+Research,1
+Research And Development,1
+Restful API,1
+RestfullAPI,2
+Reverse Engineering,1
+Robot Framework,1
+RobotFramework,2
+Routing Protocols,1
+Rspec,1
+Ruby,33
+Ruby On Rails,15
+Rust,2
+RxJS,1
+SAN,1
+SAP,2
+SAP Business Objects,1
+SAP HR,1
+SAP Project,1
+SAP R/3,1
+SCALA,15
+SCSS,1
+SEM,1
+SES,1
+SIEM,2
+SIP,1
+SMTP/POP3/IMAP,1
+SNMP,1
+SNS,1
+SOA,1
+SOAP,3
+SOLID,1
+SPA,4
+SPSS,3
+SQL,488
+SQL Injection,1
+SQLAlchemy,4
+SQLAlhemy,1
+SQLite,3
+SQS,1
+SSL/TLS,1
+SSR,1
+STL,12
+SVN,13
+SWOT анализ,1
+SaaS,1
+SaltStack,1
+Saltstack,1
+Sas,8
+Sass,2
+SciPy,2
+Scikit-Learn,1
+Scikit-learn,1
+Scipy,2
+Sclearn,1
+Scrapy,1
+Scrapyd,1
+Scripting,2
+Scrum,11
+Seaborn,3
+Secuity Software,1
+Security Engineering,1
+Selenium,5
+Selenium IDE,13
+Selenium WebDriver,1
+Senior,1
+Sentry,2
+Serverless,1
+Shell Scripting,6
+Sisense,1
+SketchUp,1
+Sklearn,1
+SoapUI,5
+SocialNetwork,1
+Softmax,1
+Software Architecture,1
+Software Development,2
+SolarWinds,1
+Spark,15
+Spark & Spark,1
+Spark MLLib,1
+SparkSQL,1
+Sphinx,1
+Spring Framework,5
+Sqoop,1
+Squish,1
+Start-up project,1
+Stash,1
+Stata,2
+Statistica,4
+Statistics,1
+Streaming,2
+Structured Streaming,1
+Swagger,2
+Swarm,1
+Swift,3
+Swift UI,1
+Symfony,5
+Syntax,1
+SystemC,2
+TCP / IP,1
+TCP/IP,40
+TCP/UDP,1
+TDD,4
+TDD/BDD,1
+TFS,3
+TILDA,3
+Tableau,2
+Tableu,2
+Tarantool,1
+Team management,4
+TeamCity,3
+Teambuilding,2
+Teamleading,8
+Teamplayer,1
+Tenserflow,1
+TensorFlow,6
+TensorRT,1
+Tensorflow,21
+Terraform,3
+Terrasoft CRM,1
+Test Automation,2
+Test case,17
+Test plan,1
+TestRail,1
+Testing Framework,1
+Testrail,3
+The Bat,2
+Theano,1
+Tiage,1
+Time management,1
+Tizen,1
+Tomcat,1
+Tomita parser,1
+Torch,1
+Tornado,8
+Transact-SQL,4
+Tsung,1
+Turbo Pascal,2
+Twisted,1
+Type Notation,1
+TypeScript,6
+TypeScript/Javascript,1
+Typescript,1
+Typing,1
+UML,6
+Ubuntu,3
+Ubuntu Server,3
+Unit Testing,16
+Unittest,2
+Unity,4
+Unix,23
+Unix Shell Scripts,11
+Unix/ Linux,1
+Unreal Engine,3
+Usability,1
+User Acceptance Testing,1
+User story,1
+VBA,14
+VLAN,1
+VMware,10
+VNX,1
+VPN,4
+Vagrant,2
+VanillaJS,1
+Vendoring,1
+Verilog,3
+Vertica,1
+Virtualization,5
+Virtuozzo,1
+Visual Studio C#,1
+VoIP,2
+Vue,10
+Vue.JS,1
+Vue.js,10
+VueJs,1
+Vuetify,2
+Vuex,6
+Vulnerability Exploit,1
+Vulnerability Research,1
+WDS,1
+WEB,2
+WEB аналитика,4
+WEBPACK,3
+WIX,3
+WPF,1
+WSGI,1
+Web,1
+Web Application Development,8
+Web Design,3
+Web Scraping,1
+Web application security,1
+Web testing,1
+Web-дизайн,2
+Web-серверы,1
+WebGL,2
+WebOS,1
+WebPack,1
+WebSocket,1
+Weblogic,1
+Webpack,3
+Wifi networks,1
+Win32 Api,1
+WinDbg,1
+Windows,5
+Windows 7,1
+Windows Os,10
+Windows Server,3
+Windows Server 2003,2
+Windows Server 2012,1
+Windows Xp,1
+WooCommerce,1
+Workflow Management,1
+XGBoost,2
+XML,24
+Yii,3
+Yii2,1
+Yolo V3,1
+ZBrush,1
+Zabbix,26
+Zend Framework,1
+Zeppelin,1
+ZooKeeper,1
+aioHTTP,1
+aioamqp,3
+aiohttp,9
+alembic,1
+angular,2
+ansible,2
+asyncio,9
+automation development,1
+babel,1
+back-end,4
+backend,4
+bash-скрипты,2
+block storage,1
+bug bounty,1
+buildroot,1
+catboost,1
+clickhouse,1
+clojure,1
+cluster,1
+computer science,1
+computer vision,2
+css2-3,3
+data engineering,1
+data science,6
+data scient,1
+data warehouse,1
+datomic,1
+deep learning,5
+devOps,1
+development of validation methods,1
+devops,3
+django,2
+django-rest-framework,1
+docker,10
+emacs,1
+embedded linux,1
+envoy,1
+failover тестирование,1
+fastcgi,1
+freeRTOS,1
+gevent,1
+gitlab,2
+go,1
+goLang,1
+golang,1
+grafana,1
+graphql,1
+grpc,1
+grunt,1
+hadoop,3
+haproxy,1
+highload,1
+hive,1
+iOS,11
+integration testing,1
+jQuery,52
+java script,1
+json,1
+jsonrpc 2,1
+k8s,2
+kafka,1
+kaggle,1
+keras,1
+kodu,1
+kotlin,2
+kubernetes,5
+kubernets,1
+laravel,2
+lightgbm,1
+linux kernel,2
+machine learning,14
+management studio,1
+marshmallow,1
+matplotlib,1
+microservices,1
+mobile iron,1
+mocap,1
+motion capture,1
+natural language processing,1
+neural networks,1
+numpy,5
+nuxt,1
+opencv,1
+owasp,1
+pandas,6
+pentest,1
+phpMyAdmin,1
+pl/pgsql,1
+psr,3
+psycopg2,1
+pymystem3,1
+pytest,5
+pytest/unittest,1
+pytorch,1
+r,1
+rake,1
+react,4
+reactjs,1
+redux,1
+reinforcement learning,1
+replication,1
+restfull,1
+sanic,1
+scikit,1
+scikit-learn,1
+scikit_learn,1
+scipy,3
+selenium,1
+sentry,1
+sigmoid,1
+single-page,1
+sklearn,3
+software testing,1
+sprig boot,1
+sqlalchemy,1
+ssh,1
+statsmodel,1
+swift,1
+syntax net,1
+tensorflow,1
+test documentation,1
+testing,2
+three.js,2
+tornado,1
+vSphere,1
+verification,1
+vim,1
+vue,2
+vue.js,6
+vuejs,1
+web,3
+web разработка,1
+web-servic,1
+web-service,1
+webpack,2
+xgboost,1
+yaml,1
+z/OS,1
+Аiohttp,1
+Аsyncio,1
+Автоматизация,4
+Автоматизация производства,1
+Автоматизация тестирования,1
+Автоматизация технологических процессов,2
+Автоматизированное рабочее место (АРМ),1
+Автоматизированное тестирование,3
+Автомобильные перевозки,1
+Автомобильные проекты,1
+Автотестирование,1
+Адаптация,1
+Администрирование,9
+Администрирование *nix,1
+Администрирование Oracle,1
+Администрирование Oracle 9I,1
+Администрирование lamp,1
+Администрирование баз данных,1
+Администрирование сайтов,1
+Администрирование серверов,3
+Администрирование серверов Linux,45
+Администрирование серверов Windows,8
+Администрирование сервисов Linux,1
+Администрирование сетевого оборудования,7
+АйТи,1
+Алгоритмы,2
+Анализ ФХД,1
+Анализ бизнес показателей,6
+Анализ временных рядов,3
+Анализ данных,57
+Анализ защищенности,1
+Анализ инвестиционных проектов,2
+Анализ конкурентной среды,1
+Анализ поведения пользователей,1
+Анализ рисков,6
+Анализ рынка,3
+Анализ финансовых показателей,1
+Аналитика,10
+Аналитические исследования,33
+Аналитические способности,2
+Аналитический склад ума,1
+Аналитическое мышление,24
+Английский не ниже intermediate,1
+Английский язык,120
+Английский язык (уровень чтения технической документации).,1
+Английский — A1 — Начальный,37
+Английский — A2 — Элементарный,4
+Английский — B1 — Средний,66
+Английский — B2 — Средне-продвинутый,39
+Английский — C1 — Продвинутый,20
+Английский — C2 — В совершенстве,2
+Анимация,1
+Архитектура,1
+Асинхронное программирование,4
+База данных: Oracle,6
+Базы данных,34
+Бизнес-анализ,23
+Бизнес-планирование,1
+Биржевые торги,1
+Блокчейн,2
+Бюджетирование,2
+Веб-аналитика,6
+Веб-дизайн,1
+Веб-программирование,20
+Ведение документации,1
+Ведение переговоров,3
+Верстка,2
+Взаимодействие с инвестиционными фондами,2
+Взыскание задолженности,1
+Виды страхования,2
+Визуализация,1
+Виртуализация,2
+"Владение React, Angular или Vue",2
+Внедренец,1
+Внедрение,1
+Внутренний контроль,1
+Встроенные системы,1
+Высокая нагрузка,1
+Высокая скорость печати,1
+Высоконагруженные системы,1
+Готовность совершенствоваться,1
+Грамотная речь,8
+Грамотность,6
+Графические редакторы,1
+Графический дизайн,1
+Групповое обучение,2
+Деловая коммуникация,6
+Деловая переписка,3
+Дизайн,1
+Дизайн интерфейсов,1
+Должностные инструкции,1
+ИТ,1
+ИТ специалист,1
+Игровая аналитика,1
+Инвестиции,2
+Инвестиционные риски,2
+Инвестиционный анализ,2
+Инвестиционный консалтинг,2
+Инженерные системы,1
+Интернет маркетинг,1
+Интернет-реклама,1
+Информационная безопасность,1
+Информационные технологии,8
+Искусственный интеллект,1
+Испытания СИ,1
+Исследование потребительских предпочтений,1
+Казахский — C1 — Продвинутый,1
+Кластерный анализ,2
+Коммуникабельность,1
+Коммуникативные навыки,1
+Компетенционное интервью,1
+Компьютерное зрение,1
+Конкурентная аналитика,1
+Консультирование,1
+Консультирование клиентов,4
+Контроль версий,1
+Контроль исправности оборудования,1
+Контроль качества,4
+Контроль сроков годности,1
+Корпоративные финансы,2
+Креативность,2
+Кроссбраузерная верстка,3
+ЛИС,1
+Лабораторная диагностика,1
+Лабораторные анализаторы,1
+Лабораторные приборы,1
+Логика,1
+Логистика,2
+Локальные сети,1
+МИС,1
+МСФО,1
+Маркетинг,1
+Маркетинговое планирование,1
+Маркетинговые исследования,6
+Маркетинговый анализ,5
+Математическая статистика,47
+Математические методы в экономике,1
+Математический анализ,27
+Математическое моделирование,33
+Математическое программирование,12
+Машинное обучение,10
+Медицинская информационная система,1
+Международные стандарты бухгалтерского учета,1
+Мемы,1
+Менеджмент,1
+Микросервисы,5
+Многозадачность,1
+Многопоточное программирование,3
+Мобильность,1
+Мобильный маркетинг,2
+Моделирование,5
+Моделирование бизнес процессов,1
+Моделирование данных,1
+Модульное тестирование,1
+Мониторинг,1
+Мотивация персонала,1
+Навыки блочного ремонта,1
+Навыки пайки,1
+Навыки презентации,5
+Навыки элементного ремонта,1
+Нагрузочное тестирование,9
+Написание научный статей,1
+Написание технических заданий,1
+Настройка DNS,3
+Настройка ПК,1
+Настройка почтовых серверов,1
+Настройка серверов,1
+Настройка серверов Apache,2
+Настройка сетевых подключений,2
+Научные исследования,1
+Нейронные сети,5
+Нейросети,1
+Немецкий язык,1
+Немецкий — A1 — Начальный,1
+ООП,79
+Обработка изображений,2
+Обучение,5
+Обучение и развитие,11
+Обучение персонала,2
+Оптимизация бизнес-процессов,4
+Оптимизация сервисов,1
+Организаторские навыки,4
+Организационное проектирование,1
+Организационное развитие,1
+Организационные навыки,1
+Организация мероприятий,1
+Организация учебного процесса,5
+Ориентация на клиента,1
+Ориентация на результат,8
+Ответственность,1
+Отчетность,2
+Оценка инвестиционных проектов,2
+Оценка компетенций,1
+Оценка рисков,2
+ПЛИС,2
+Планирование движения,1
+Планирование запасов,1
+Планирование карьеры,5
+Подбор персонала,1
+Подбор сотрудников,1
+Подготовка презентаций,7
+Поддержка,1
+Поиск информации в интернет,2
+Поисковые системы,1
+Пользователь ПК,4
+Портфельные риски,3
+Постановка задач разработчикам,3
+Преподаватель,11
+Претенциозная работа,1
+Проведение презентаций,2
+Проведение тестирований,12
+Прогнозирование,13
+Прогнозирование спроса,1
+Программирование,1
+Программист,1
+Продвижение бренда,1
+Проектирование архитектуры,1
+Проектирование пользовательских интерфейсов,2
+Проектная документация,3
+Проектный менеджмент,3
+Производство пусконаладочных работ,1
+Пуско-наладочные работы,1
+РСБУ,1
+Работа в команде,31
+Работа на выставках,1
+Работа с базами данных,28
+Работа с большим объемом информации,7
+Работа с дебиторской задолженностью,1
+Работа с документами,1
+Работа с инвесторами,2
+Работа с клиентами,1
+Работа с людьми,3
+Работа с претензиями,1
+Развитие продаж,1
+Разговорный Английский язык,1
+Разработка ПО,17
+Разработка автоматизаций,1
+Разработка долгосрочной системы мотивации,1
+Разработка инструкций,1
+Разработка концепции,1
+Разработка маркетинговой стратегии,1
+Разработка нового продукта,1
+Разработка проектной документации,1
+Разработка технических заданий,11
+Распознавание речи,1
+Расстановка приоритетов,2
+Расчет заработной платы,1
+Регресcионное тестирование,9
+Регресионное тестирование,4
+Регрессионное тестирование,1
+Регрессионный анализ,3
+Рекрутмент,2
+Ремонт ПК,1
+Рефакторинг кода,1
+Риск-менеджмент,3
+Рисунок,1
+Робототехника,2
+Руководство коллективом,1
+Русский — C1 — Продвинутый,1
+Русский — C2 — В совершенстве,3
+Ручное тестирование,1
+Рынки ценных бумаг,1
+С,4
+С#,5
+С/С++,1
+С/С++/С#,1
+САПР,1
+СУБД,12
+Сбор и анализ информации,2
+Серверная разработка,1
+Серверное программирование,1
+Сервисный инженер,1
+Сертификация СИ,1
+Сетевая безопасность,1
+Системная интеграция,3
+Системное мышление,4
+Системность,1
+Системный администратор Linux,1
+Системный анализ,6
+Системный подход,2
+Системы видеонаблюдения,1
+Скриптовые языки программирования,1
+Случайные процессы,1
+Создание сайтов,1
+Составление бизнес-плана,1
+Социологические исследования,2
+Способность обучать других,1
+Стастистика,1
+Статистика,8
+Статистический анализ,36
+Статистическое моделирование,2
+Стратегический менеджмент,1
+Стратегическое мышление,1
+Стратегическое планирование,2
+Стратегия Развития,1
+Схемотехника электронного оборудования,3
+Творческое мышление,1
+Телефонное интервью,1
+Теория вероятностей,1
+Теория финансов,1
+Терминалы Сбора Данных,1
+Тест-дизайн,2
+Тестирование,30
+Тестирование встроенного ПО приборов,1
+Тестирование на проникновение,1
+Тестирование пользовательского интерфейса,16
+Тестовое окружение,1
+Техническая документация,2
+Техническая поддержка,6
+Технический перевод,1
+Тренинги,3
+Умение использовать измерительную технику,1
+Умение работать в команде,2
+Управление временем,2
+Управление данными,1
+Управление денежными средствами,1
+Управление интернет-проектами,1
+Управление качеством,2
+Управление командой,6
+Управление отношениями с клиентами,4
+Управление персоналом,3
+Управление продуктом,2
+Управление проектами,19
+Управление процессами,1
+Управление разработкой,3
+Управление рисками,6
+Управление талантами,2
+Управление товарными запасами,1
+Управление финансами,2
+Управленческая отчетность,1
+Управленческий учет,1
+Факторный анализ,2
+Финансовая отчетность,3
+Финансовое моделирование,3
+Финансовое планирование,2
+Финансовый анализ,5
+Финансовый контроль,2
+Финансовый менеджмент,3
+Фондовый рынок,2
+Формирование управленческой отчетности,1
+Французский язык,1
+Функциональное тестирование,29
+Хеджирование валютных рисков,2
+Ценные бумаги,2
+Эконометрика,1
+Экономическая теория,1
+Экономический анализ,2
+Экономическое моделирование,1
+Электронный документооборот,1
+Языки программирования,1
+Яндекс.Метрика,3
+Яндекс.Танк,1
+автоматизированное тестирование,4
+алгоритмы,2
+анализ информационных систем,1
+аналитика,1
+асинхронный код,1
+беспилот,1
+бустинг,1
+вложенные запросы,1
+вычислительная техника,1
+"знание и/или готовность изучать Matlab, Python",1
+инженер по внедрению,1
+инновации,1
+интеграция,1
+информатика,1
+информационные системы,1
+инфраструктура разработки ПО,1
+искусственный интеллект,1
+калибровка,1
+клиент-серверное взаимодействие,1
+команда,1
+компьютерная безопасность,1
+компьютерное зрение,1
+компьютерные курсы,1
+конкурентная разведка,1
+конфигурационное управление,1
+лабораторно информационная система,1
+математические алгоритмы,1
+машинное обучение,8
+методология тестирования,1
+микросервисная архитектура,1
+настройка и поддержка JIRA,1
+нейронные сети,5
+нормативно-техническая документация,1
+опыт разработки высоконагруженных backend’ов,1
+опыт разработки на любом серверном языке: Go/Java/C++,1
+позитивное и негативное тестирование,1
+промышленное программирование,1
+психометрика,1
+развертывание инфраструктуры,1
+разработка архитектуры,1
+регрессионное тестирование,1
+руководство командой разработчиков,1
+ручное тестирование,2
+серверные комп,1
+сетевые протоколы,1
+сисадми,1
+система мониторинга,1
+системное программирование,1
+системный администратор,1
+создание баз данных,1
+статистическое моделирование,1
+структуры данных,1
+"фильтр Калмана,Махони, Мажвика",1
+цифровая обработка сигналов,1
+эксплуатация java приложений,1
+эксплуатация систем мониторинга,1
+эникейщик,1
